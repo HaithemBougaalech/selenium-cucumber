@@ -8,6 +8,6 @@ Feature: Authentification
     When Je saisis le username
     And Je saisie le mot de passe
     And Je clique sur le bouton login
-    Then Je me redirige vers la page dashboard
+    Then Je me redirige vers la page dashboard "Dashboard"
 
   
